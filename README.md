@@ -282,4 +282,4 @@ Remember to position the brightness sensor as high as possible on your weather s
 * wall_pipe_support.scad: The OpenSCAD file for mat support.
 
 ## Links
-* (https://www.youtube.com/watch?v=KHrTqdmYoAk&ab_channel=ModestMaker)
+* [Argent Weather Station Arduino Hacks - Hardware and Code](https://www.youtube.com/watch?v=KHrTqdmYoAk&ab_channel=ModestMaker)
