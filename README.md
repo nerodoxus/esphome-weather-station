@@ -281,3 +281,5 @@ Remember to position the brightness sensor as high as possible on your weather s
 * secrets.yaml: The secret information about your network.
 * wall_pipe_support.scad: The OpenSCAD file for mat support.
 
+## Links
+* (https://www.youtube.com/watch?v=KHrTqdmYoAk&ab_channel=ModestMaker)
